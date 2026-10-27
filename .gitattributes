@@ -1,0 +1,5 @@
+*.png -text
+*.webp -text
+*.mp3 -text
+*.json text eol=lf
+*.md text eol=lf

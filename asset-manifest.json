@@ -1,0 +1,784 @@
+{
+  "project": "余烬 · 2234",
+  "version": "1.5",
+  "date": "2026-10-27",
+  "assets": [
+    {
+      "sha256": "013d510739d294c7f5701f605c123e3aed3d4e1ce54c8f9f511c49355918330f",
+      "path": "assets/v1.5/013d510739d294c7f5701f605c123e3aed3d4e1ce54c8f9f511c49355918330f.webp",
+      "mime": "image/webp",
+      "bytes": 65288,
+      "occurrences": 1,
+      "aliases": [
+        "开场/input-surface"
+      ]
+    },
+    {
+      "sha256": "057d1495d3928888d07a8fe75aeaf38a3f2fd29a5b2541c136324292c43402d9",
+      "path": "assets/v1.5/057d1495d3928888d07a8fe75aeaf38a3f2fd29a5b2541c136324292c43402d9.webp",
+      "mime": "image/webp",
+      "bytes": 62568,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/统合派"
+      ]
+    },
+    {
+      "sha256": "06dd9c88461a06ae52368717c1097ca68e8cbef64662d403d373155e0ae0b171",
+      "path": "assets/v1.5/06dd9c88461a06ae52368717c1097ca68e8cbef64662d403d373155e0ae0b171.webp",
+      "mime": "image/webp",
+      "bytes": 79668,
+      "occurrences": 1,
+      "aliases": [
+        "开场/module-name"
+      ]
+    },
+    {
+      "sha256": "17208264d7032faad29a274c9f05a6fdca561e83382b20547bd3f93b87f7aef2",
+      "path": "assets/v1.5/17208264d7032faad29a274c9f05a6fdca561e83382b20547bd3f93b87f7aef2.webp",
+      "mime": "image/webp",
+      "bytes": 163516,
+      "occurrences": 1,
+      "aliases": [
+        "开场/flight-free"
+      ]
+    },
+    {
+      "sha256": "187e7ccf1ef0d46d999237d3b4f50b89a463b75cbf1f3d525d68b036a2a7c468",
+      "path": "assets/v1.5/187e7ccf1ef0d46d999237d3b4f50b89a463b75cbf1f3d525d68b036a2a7c468.png",
+      "mime": "image/png",
+      "bytes": 1898420,
+      "occurrences": 1,
+      "aliases": [
+        "界面/辅助图像"
+      ]
+    },
+    {
+      "sha256": "189b66e0fe9a996e0fbbfd194052aaab93a00e947aa1e95f8d493b47986fa171",
+      "path": "assets/v1.5/189b66e0fe9a996e0fbbfd194052aaab93a00e947aa1e95f8d493b47986fa171.webp",
+      "mime": "image/webp",
+      "bytes": 62076,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/灯塔通讯社"
+      ]
+    },
+    {
+      "sha256": "1dd7438c30e1847923d57ddff64ce83ba1758338b501db7833a8f223c4d8a708",
+      "path": "assets/v1.5/1dd7438c30e1847923d57ddff64ce83ba1758338b501db7833a8f223c4d8a708.webp",
+      "mime": "image/webp",
+      "bytes": 126148,
+      "occurrences": 1,
+      "aliases": [
+        "星图/station-redesign"
+      ]
+    },
+    {
+      "sha256": "1ef9ad5be974c31a6dffa87813e6d324205044177df7eba7b21df10aa7764d30",
+      "path": "assets/v1.5/1ef9ad5be974c31a6dffa87813e6d324205044177df7eba7b21df10aa7764d30.webp",
+      "mime": "image/webp",
+      "bytes": 101164,
+      "occurrences": 1,
+      "aliases": [
+        "开场/archive-surface"
+      ]
+    },
+    {
+      "sha256": "1f3c7a514a070b3e2c4c2d5d04a032d8c9339c103407d00c58c9338af802f0c5",
+      "path": "assets/v1.5/1f3c7a514a070b3e2c4c2d5d04a032d8c9339c103407d00c58c9338af802f0c5.webp",
+      "mime": "image/webp",
+      "bytes": 40456,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/欧若拉生物集团"
+      ]
+    },
+    {
+      "sha256": "20ea11360be0583f5a5caf670501e9de23a8dfae90829f2ec25579ada4d17a48",
+      "path": "assets/v1.5/20ea11360be0583f5a5caf670501e9de23a8dfae90829f2ec25579ada4d17a48.webp",
+      "mime": "image/webp",
+      "bytes": 34344,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/无眠学会"
+      ]
+    },
+    {
+      "sha256": "2434013c3a240deb6512609b7d786dae5db81dffab29031b30a95b3facf66ec8",
+      "path": "assets/v1.5/2434013c3a240deb6512609b7d786dae5db81dffab29031b30a95b3facf66ec8.webp",
+      "mime": "image/webp",
+      "bytes": 59614,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/逆谱研究所"
+      ]
+    },
+    {
+      "sha256": "2474ece832b447b5dabeda9ff1975f71ed27769a7d3443a23c53a6a2a1b9fe2d",
+      "path": "assets/v1.5/2474ece832b447b5dabeda9ff1975f71ed27769a7d3443a23c53a6a2a1b9fe2d.webp",
+      "mime": "image/webp",
+      "bytes": 82524,
+      "occurrences": 1,
+      "aliases": [
+        "开场/module-past"
+      ]
+    },
+    {
+      "sha256": "25b8e5e990bb84f5f008c558c52ecc7a0909681a821c65025195947751228ebe",
+      "path": "assets/v1.5/25b8e5e990bb84f5f008c558c52ecc7a0909681a821c65025195947751228ebe.webp",
+      "mime": "image/webp",
+      "bytes": 56848,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/北美联邦"
+      ]
+    },
+    {
+      "sha256": "2a555ab17d18c6d093fa564e324bae76dc4a1645b3d38d3d64a5aa13d2652499",
+      "path": "assets/v1.5/2a555ab17d18c6d093fa564e324bae76dc4a1645b3d38d3d64a5aa13d2652499.mp3",
+      "mime": "audio/mpeg",
+      "bytes": 5140278,
+      "occurrences": 1,
+      "aliases": [
+        "音乐/Frosted Citadel"
+      ]
+    },
+    {
+      "sha256": "2c092c556ff7cba9e62b9588f58d57b23e027ee2d2705a98484bc957db72b3e9",
+      "path": "assets/v1.5/2c092c556ff7cba9e62b9588f58d57b23e027ee2d2705a98484bc957db72b3e9.webp",
+      "mime": "image/webp",
+      "bytes": 55668,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/欧洲联合共和国"
+      ]
+    },
+    {
+      "sha256": "2cbf23e03ab132bb55dcba083904fa37f54aba2c08d88f3f17efc87d2f9b82be",
+      "path": "assets/v1.5/2cbf23e03ab132bb55dcba083904fa37f54aba2c08d88f3f17efc87d2f9b82be.webp",
+      "mime": "image/webp",
+      "bytes": 41704,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/归零教团"
+      ]
+    },
+    {
+      "sha256": "350859e99abab06c730cb943d6a03e9bca9e8d9f1a244df488fc8209e251a6f0",
+      "path": "assets/v1.5/350859e99abab06c730cb943d6a03e9bca9e8d9f1a244df488fc8209e251a6f0.webp",
+      "mime": "image/webp",
+      "bytes": 429650,
+      "occurrences": 1,
+      "aliases": [
+        "开场/atlas-stage-mobile"
+      ]
+    },
+    {
+      "sha256": "39dcabcc7d79ef09c044d42d9beb03808d13544c96a32c8d96f74ad0b4eeb2b3",
+      "path": "assets/v1.5/39dcabcc7d79ef09c044d42d9beb03808d13544c96a32c8d96f74ad0b4eeb2b3.webp",
+      "mime": "image/webp",
+      "bytes": 325780,
+      "occurrences": 1,
+      "aliases": [
+        "开场/flight-core"
+      ]
+    },
+    {
+      "sha256": "3b97b626ececc6cad7927a56a406768342f22ee111b41518ad2a7d66c24ea51b",
+      "path": "assets/v1.5/3b97b626ececc6cad7927a56a406768342f22ee111b41518ad2a7d66c24ea51b.webp",
+      "mime": "image/webp",
+      "bytes": 91342,
+      "occurrences": 1,
+      "aliases": [
+        "星图/mars"
+      ]
+    },
+    {
+      "sha256": "3c3b317d005ba9729157e261dcf145ae0aba343a004f278454242bb7ba48f91c",
+      "path": "assets/v1.5/3c3b317d005ba9729157e261dcf145ae0aba343a004f278454242bb7ba48f91c.webp",
+      "mime": "image/webp",
+      "bytes": 352362,
+      "occurrences": 1,
+      "aliases": [
+        "开场/flight-mars"
+      ]
+    },
+    {
+      "sha256": "3e7d89d08ef790276775cb49ed32b2365aab5c4cfe8d131df87ad409482df34e",
+      "path": "assets/v1.5/3e7d89d08ef790276775cb49ed32b2365aab5c4cfe8d131df87ad409482df34e.webp",
+      "mime": "image/webp",
+      "bytes": 9210,
+      "occurrences": 1,
+      "aliases": [
+        "导航/estates"
+      ]
+    },
+    {
+      "sha256": "3fed076ec054873c060cc9bdb6857e1123bd9f0923b701fbe5072eb21b51844e",
+      "path": "assets/v1.5/3fed076ec054873c060cc9bdb6857e1123bd9f0923b701fbe5072eb21b51844e.webp",
+      "mime": "image/webp",
+      "bytes": 87994,
+      "occurrences": 1,
+      "aliases": [
+        "开场/command-deck"
+      ]
+    },
+    {
+      "sha256": "41f49860fb1262f9a6f11ede1392aeb5b4ab8db07d98c40281345d9f5f5af97b",
+      "path": "assets/v1.5/41f49860fb1262f9a6f11ede1392aeb5b4ab8db07d98c40281345d9f5f5af97b.webp",
+      "mime": "image/webp",
+      "bytes": 127098,
+      "occurrences": 1,
+      "aliases": [
+        "开场/module-body"
+      ]
+    },
+    {
+      "sha256": "4443c56e4de0db0a11fa2e348f921a0ca329f14afe7912ee913020532b3bc952",
+      "path": "assets/v1.5/4443c56e4de0db0a11fa2e348f921a0ca329f14afe7912ee913020532b3bc952.webp",
+      "mime": "image/webp",
+      "bytes": 127636,
+      "occurrences": 1,
+      "aliases": [
+        "星图/earth"
+      ]
+    },
+    {
+      "sha256": "48960bf69bf7c35d8ff965764d9fe19bd1b4d1983d314d323b3deab5a7c8cf1f",
+      "path": "assets/v1.5/48960bf69bf7c35d8ff965764d9fe19bd1b4d1983d314d323b3deab5a7c8cf1f.webp",
+      "mime": "image/webp",
+      "bytes": 45094,
+      "occurrences": 1,
+      "aliases": [
+        "开场/atlas-instrument"
+      ]
+    },
+    {
+      "sha256": "4a2bb42aca369a481072527e230ae170c95e004cdd36c6f2467dbdbaffb06542",
+      "path": "assets/v1.5/4a2bb42aca369a481072527e230ae170c95e004cdd36c6f2467dbdbaffb06542.webp",
+      "mime": "image/webp",
+      "bytes": 64974,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/第九迭代社"
+      ]
+    },
+    {
+      "sha256": "4cf617e14a3c6e9af86dcad9221e44ef2efcae06411210ac3c816dcd9c841c4c",
+      "path": "assets/v1.5/4cf617e14a3c6e9af86dcad9221e44ef2efcae06411210ac3c816dcd9c841c4c.webp",
+      "mime": "image/webp",
+      "bytes": 61376,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/绮梦自由市"
+      ]
+    },
+    {
+      "sha256": "4e861c0cc8190fa2df0ed1e810545225ddb18473466a8b8ac94297c4b285dc7c",
+      "path": "assets/v1.5/4e861c0cc8190fa2df0ed1e810545225ddb18473466a8b8ac94297c4b285dc7c.webp",
+      "mime": "image/webp",
+      "bytes": 332172,
+      "occurrences": 1,
+      "aliases": [
+        "开场/atlas-stage"
+      ]
+    },
+    {
+      "sha256": "4f6f4fccd4c4030fa36e1a5b3f5199df1c69f1c0c783156770ec3cf7d6414e9b",
+      "path": "assets/v1.5/4f6f4fccd4c4030fa36e1a5b3f5199df1c69f1c0c783156770ec3cf7d6414e9b.webp",
+      "mime": "image/webp",
+      "bytes": 64256,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/断链掠夺团"
+      ]
+    },
+    {
+      "sha256": "54a2a006dc1528a9bdc3c495aa985109f7b9c5ca8afa1ef02931f738867d988f",
+      "path": "assets/v1.5/54a2a006dc1528a9bdc3c495aa985109f7b9c5ca8afa1ef02931f738867d988f.webp",
+      "mime": "image/webp",
+      "bytes": 50098,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/自由航运公社"
+      ]
+    },
+    {
+      "sha256": "5a0c93e2514c7346fa65848bdec3692624d8eb58aa405deb06df3ff6728c2928",
+      "path": "assets/v1.5/5a0c93e2514c7346fa65848bdec3692624d8eb58aa405deb06df3ff6728c2928.webp",
+      "mime": "image/webp",
+      "bytes": 41964,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/无旗救援会"
+      ]
+    },
+    {
+      "sha256": "5a466b03dfa20be9b3ddd391bac6cdab3426d4ac8a9869f144eaac683f062072",
+      "path": "assets/v1.5/5a466b03dfa20be9b3ddd391bac6cdab3426d4ac8a9869f144eaac683f062072.webp",
+      "mime": "image/webp",
+      "bytes": 8852,
+      "occurrences": 1,
+      "aliases": [
+        "导航/主控"
+      ]
+    },
+    {
+      "sha256": "6657fd29bcd95547e952213184788789fd10f65c9453da242649b7e3b5ed03fb",
+      "path": "assets/v1.5/6657fd29bcd95547e952213184788789fd10f65c9453da242649b7e3b5ed03fb.webp",
+      "mime": "image/webp",
+      "bytes": 46826,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/万象传媒"
+      ]
+    },
+    {
+      "sha256": "67e7227ffa3219f73e97a24239c4583b93254afa860a84a8272fc9d806d26561",
+      "path": "assets/v1.5/67e7227ffa3219f73e97a24239c4583b93254afa860a84a8272fc9d806d26561.webp",
+      "mime": "image/webp",
+      "bytes": 327226,
+      "occurrences": 1,
+      "aliases": [
+        "开场/flight-earth"
+      ]
+    },
+    {
+      "sha256": "719340f2cf2bf4ce52065244be2a450e26db33292209c55318f44622fd8178e9",
+      "path": "assets/v1.5/719340f2cf2bf4ce52065244be2a450e26db33292209c55318f44622fd8178e9.webp",
+      "mime": "image/webp",
+      "bytes": 63000,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/超越派"
+      ]
+    },
+    {
+      "sha256": "7525e5f7d23f054f4f3a7a22996b5db2b92af477ebf9e96039662d8cfb44c4fc",
+      "path": "assets/v1.5/7525e5f7d23f054f4f3a7a22996b5db2b92af477ebf9e96039662d8cfb44c4fc.webp",
+      "mime": "image/webp",
+      "bytes": 88682,
+      "occurrences": 1,
+      "aliases": [
+        "开场/module-place"
+      ]
+    },
+    {
+      "sha256": "7547de80627883372052d3b86b7971ebc16446c049fc8cbdcbdc312980212543",
+      "path": "assets/v1.5/7547de80627883372052d3b86b7971ebc16446c049fc8cbdcbdc312980212543.webp",
+      "mime": "image/webp",
+      "bytes": 391400,
+      "occurrences": 1,
+      "aliases": [
+        "开场/flight-ring"
+      ]
+    },
+    {
+      "sha256": "7d0919519e621c986d6317aed366550335d3640a13fdf3640e33c86ad512752c",
+      "path": "assets/v1.5/7d0919519e621c986d6317aed366550335d3640a13fdf3640e33c86ad512752c.webp",
+      "mime": "image/webp",
+      "bytes": 66454,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/航路仲裁公会"
+      ]
+    },
+    {
+      "sha256": "852cdfcbd49b5f84dc1b3a5922c7e5a345dd1241011218a1e545904c381a8f7f",
+      "path": "assets/v1.5/852cdfcbd49b5f84dc1b3a5922c7e5a345dd1241011218a1e545904c381a8f7f.webp",
+      "mime": "image/webp",
+      "bytes": 55302,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/外环互助工会"
+      ]
+    },
+    {
+      "sha256": "86635280f50f2ab6f035e6a27aee43021b135ad354607e5de4da513b9bc0304d",
+      "path": "assets/v1.5/86635280f50f2ab6f035e6a27aee43021b135ad354607e5de4da513b9bc0304d.webp",
+      "mime": "image/webp",
+      "bytes": 53828,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/新肉教会"
+      ]
+    },
+    {
+      "sha256": "8c701068560830034fc82c9bccaa3abbe3018dff5706cb3f6eec3e09d7c05c60",
+      "path": "assets/v1.5/8c701068560830034fc82c9bccaa3abbe3018dff5706cb3f6eec3e09d7c05c60.webp",
+      "mime": "image/webp",
+      "bytes": 65758,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/恒际航运集团"
+      ]
+    },
+    {
+      "sha256": "953f16f6a96bed281ae9a002d7efeaef8a353d0396d691e7eb34a7f4fb123470",
+      "path": "assets/v1.5/953f16f6a96bed281ae9a002d7efeaef8a353d0396d691e7eb34a7f4fb123470.webp",
+      "mime": "image/webp",
+      "bytes": 43226,
+      "occurrences": 1,
+      "aliases": [
+        "开场/module-moment"
+      ]
+    },
+    {
+      "sha256": "96aa7b6023c2b4aac72a52e970bb6eece41c1603ae626cffab6dd77f32fa3587",
+      "path": "assets/v1.5/96aa7b6023c2b4aac72a52e970bb6eece41c1603ae626cffab6dd77f32fa3587.webp",
+      "mime": "image/webp",
+      "bytes": 86112,
+      "occurrences": 1,
+      "aliases": [
+        "界面/辅助图像"
+      ]
+    },
+    {
+      "sha256": "9a0788594bf40c339870512611dc58f16bc1ef3ae111f8fb68cdf14ad76d666e",
+      "path": "assets/v1.5/9a0788594bf40c339870512611dc58f16bc1ef3ae111f8fb68cdf14ad76d666e.webp",
+      "mime": "image/webp",
+      "bytes": 132354,
+      "occurrences": 1,
+      "aliases": [
+        "星图/core-redesign"
+      ]
+    },
+    {
+      "sha256": "9ac96c7c960186c6e9bc7642bb442f7ff99a01888e4a7f3e7f466e17d4f1b843",
+      "path": "assets/v1.5/9ac96c7c960186c6e9bc7642bb442f7ff99a01888e4a7f3e7f466e17d4f1b843.webp",
+      "mime": "image/webp",
+      "bytes": 114344,
+      "occurrences": 1,
+      "aliases": [
+        "星图/moon"
+      ]
+    },
+    {
+      "sha256": "9e494dfdc8ad9efe8894743d5f9783d0c5eaafb96ec0a30ed7918b43f3c670dc",
+      "path": "assets/v1.5/9e494dfdc8ad9efe8894743d5f9783d0c5eaafb96ec0a30ed7918b43f3c670dc.webp",
+      "mime": "image/webp",
+      "bytes": 335946,
+      "occurrences": 1,
+      "aliases": [
+        "开场/flight-inter"
+      ]
+    },
+    {
+      "sha256": "a335be64186f5b3277f9101764c6e34af0e1e1068b1117c333da1226b9e9388a",
+      "path": "assets/v1.5/a335be64186f5b3277f9101764c6e34af0e1e1068b1117c333da1226b9e9388a.webp",
+      "mime": "image/webp",
+      "bytes": 72086,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/乌拉尔帝国"
+      ]
+    },
+    {
+      "sha256": "a6552d2c615b1379350824d86db53df06d9191097f3a5eaf34db8ce1bddea01c",
+      "path": "assets/v1.5/a6552d2c615b1379350824d86db53df06d9191097f3a5eaf34db8ce1bddea01c.webp",
+      "mime": "image/webp",
+      "bytes": 569182,
+      "occurrences": 1,
+      "aliases": [
+        "星图/earth-terrain"
+      ]
+    },
+    {
+      "sha256": "a7937424130053c7bb21c6ad32481d5611a27f9571d849661d55bdfdb7b51b5e",
+      "path": "assets/v1.5/a7937424130053c7bb21c6ad32481d5611a27f9571d849661d55bdfdb7b51b5e.webp",
+      "mime": "image/webp",
+      "bytes": 246240,
+      "occurrences": 1,
+      "aliases": [
+        "开场/flight-hero"
+      ]
+    },
+    {
+      "sha256": "abe6da9a4d34ecbdf1bebef20914270c4d3f36288a8217ade655a4c849a2567b",
+      "path": "assets/v1.5/abe6da9a4d34ecbdf1bebef20914270c4d3f36288a8217ade655a4c849a2567b.webp",
+      "mime": "image/webp",
+      "bytes": 66194,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/木星共同体"
+      ]
+    },
+    {
+      "sha256": "acee9b06433c544b7ba97a923f85300b629d41ec2f10dca57327e193c19e8cb6",
+      "path": "assets/v1.5/acee9b06433c544b7ba97a923f85300b629d41ec2f10dca57327e193c19e8cb6.webp",
+      "mime": "image/webp",
+      "bytes": 65508,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/共生派"
+      ]
+    },
+    {
+      "sha256": "ae2b13cba73e8ea6b9553a7a0c57435167db19fb4dffddc226e1b3094d4e13c1",
+      "path": "assets/v1.5/ae2b13cba73e8ea6b9553a7a0c57435167db19fb4dffddc226e1b3094d4e13c1.webp",
+      "mime": "image/webp",
+      "bytes": 34780,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/赫克托军务公司"
+      ]
+    },
+    {
+      "sha256": "b2e780a2883ba3ca51d9bf161387a10b425bb66d5ae26e6e8a698cbe80329faa",
+      "path": "assets/v1.5/b2e780a2883ba3ca51d9bf161387a10b425bb66d5ae26e6e8a698cbe80329faa.webp",
+      "mime": "image/webp",
+      "bytes": 65428,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/远航船团"
+      ]
+    },
+    {
+      "sha256": "b3ad4e332a1599d6fbebb4f2c8142667b14dc2d7f83b0882273c0088e7e64006",
+      "path": "assets/v1.5/b3ad4e332a1599d6fbebb4f2c8142667b14dc2d7f83b0882273c0088e7e64006.webp",
+      "mime": "image/webp",
+      "bytes": 176776,
+      "occurrences": 1,
+      "aliases": [
+        "开场/module-look"
+      ]
+    },
+    {
+      "sha256": "bc3e7698d255919e3bf08b9a49e6cf2a37e39e525abd517cf9bc31fd6183d880",
+      "path": "assets/v1.5/bc3e7698d255919e3bf08b9a49e6cf2a37e39e525abd517cf9bc31fd6183d880.webp",
+      "mime": "image/webp",
+      "bytes": 57510,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/阿特拉斯工业"
+      ]
+    },
+    {
+      "sha256": "bd3bfacb7ae4ee7e27ea859a1c61bb38014537b76def7fa2aec9b248c2a9218c",
+      "path": "assets/v1.5/bd3bfacb7ae4ee7e27ea859a1c61bb38014537b76def7fa2aec9b248c2a9218c.webp",
+      "mime": "image/webp",
+      "bytes": 60278,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/黑箱交易所"
+      ]
+    },
+    {
+      "sha256": "bf5bc4bd43c4d9dc5c1803ebff561d873da046965f456c21d9889217117ea767",
+      "path": "assets/v1.5/bf5bc4bd43c4d9dc5c1803ebff561d873da046965f456c21d9889217117ea767.webp",
+      "mime": "image/webp",
+      "bytes": 117800,
+      "occurrences": 1,
+      "aliases": [
+        "星图/asteroids"
+      ]
+    },
+    {
+      "sha256": "c28032b211c952098b7c99b598c3cb6fec793f85bd21bad3ffeae204fba77125",
+      "path": "assets/v1.5/c28032b211c952098b7c99b598c3cb6fec793f85bd21bad3ffeae204fba77125.webp",
+      "mime": "image/webp",
+      "bytes": 272106,
+      "occurrences": 1,
+      "aliases": [
+        "开场/command-deck-mobile"
+      ]
+    },
+    {
+      "sha256": "c5253e3a83368bcb15b747b12e47c8974691c819fa3541c8ff30cbcdf6c4f277",
+      "path": "assets/v1.5/c5253e3a83368bcb15b747b12e47c8974691c819fa3541c8ff30cbcdf6c4f277.webp",
+      "mime": "image/webp",
+      "bytes": 60980,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/旧日档案协会"
+      ]
+    },
+    {
+      "sha256": "c8a2ea2c6565a03ccc9bb6270e832e3949d21e96efb9199c2f5eb5fd94879e52",
+      "path": "assets/v1.5/c8a2ea2c6565a03ccc9bb6270e832e3949d21e96efb9199c2f5eb5fd94879e52.webp",
+      "mime": "image/webp",
+      "bytes": 39686,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/玛尔斯联合集团"
+      ]
+    },
+    {
+      "sha256": "d32d70d0f0c2425c28a4cdb0fa0356857342e9148b95ff3465bfa6a1d198e3e1",
+      "path": "assets/v1.5/d32d70d0f0c2425c28a4cdb0fa0356857342e9148b95ff3465bfa6a1d198e3e1.webp",
+      "mime": "image/webp",
+      "bytes": 551394,
+      "occurrences": 1,
+      "aliases": [
+        "星图/mars-terrain"
+      ]
+    },
+    {
+      "sha256": "d3ff27e63eb24478caafe4eef0e4e6676af4bb2db3d471edf2a59143b21c6e53",
+      "path": "assets/v1.5/d3ff27e63eb24478caafe4eef0e4e6676af4bb2db3d471edf2a59143b21c6e53.webp",
+      "mime": "image/webp",
+      "bytes": 9294,
+      "occurrences": 1,
+      "aliases": [
+        "导航/factions"
+      ]
+    },
+    {
+      "sha256": "dd10f330e68442792bbfe19baef1cdbc61876270d37a04201bdbbf75a915e50f",
+      "path": "assets/v1.5/dd10f330e68442792bbfe19baef1cdbc61876270d37a04201bdbbf75a915e50f.webp",
+      "mime": "image/webp",
+      "bytes": 130116,
+      "occurrences": 1,
+      "aliases": [
+        "开场/action-surface"
+      ]
+    },
+    {
+      "sha256": "de4a178a0993f3ba88d7b881483966bf736ee040ef862220c58284e2c8cd0ab9",
+      "path": "assets/v1.5/de4a178a0993f3ba88d7b881483966bf736ee040ef862220c58284e2c8cd0ab9.webp",
+      "mime": "image/webp",
+      "bytes": 60312,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/架构师"
+      ]
+    },
+    {
+      "sha256": "dfd4ec08e5d0cf2bfdefc7822365a60fb30dd379789ad30afed3e9229ff5f61d",
+      "path": "assets/v1.5/dfd4ec08e5d0cf2bfdefc7822365a60fb30dd379789ad30afed3e9229ff5f61d.webp",
+      "mime": "image/webp",
+      "bytes": 87572,
+      "occurrences": 1,
+      "aliases": [
+        "星图/jupiter"
+      ]
+    },
+    {
+      "sha256": "e03d22ac718bc9f614edfec0401683c7d64e7dd057df24c41e62051402eab9aa",
+      "path": "assets/v1.5/e03d22ac718bc9f614edfec0401683c7d64e7dd057df24c41e62051402eab9aa.webp",
+      "mime": "image/webp",
+      "bytes": 12772,
+      "occurrences": 1,
+      "aliases": [
+        "星图/nav"
+      ]
+    },
+    {
+      "sha256": "e188cd5ece2ff5adc9dab3eeb7d5b48433b131d660ccffa601ad3c610767d830",
+      "path": "assets/v1.5/e188cd5ece2ff5adc9dab3eeb7d5b48433b131d660ccffa601ad3c610767d830.webp",
+      "mime": "image/webp",
+      "bytes": 48826,
+      "occurrences": 1,
+      "aliases": [
+        "开场/module-life"
+      ]
+    },
+    {
+      "sha256": "e34e842bb2e98ff3b47705aa177df2ce3218a2ec3b4d6e8a37da0c6c7ea4418b",
+      "path": "assets/v1.5/e34e842bb2e98ff3b47705aa177df2ce3218a2ec3b4d6e8a37da0c6c7ea4418b.webp",
+      "mime": "image/webp",
+      "bytes": 57688,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/白庭联合诊所"
+      ]
+    },
+    {
+      "sha256": "e75b0fca790c15d01f6f76853842bf78a3ad18192ca7c633113c206e0c94aa3e",
+      "path": "assets/v1.5/e75b0fca790c15d01f6f76853842bf78a3ad18192ca7c633113c206e0c94aa3e.webp",
+      "mime": "image/webp",
+      "bytes": 137890,
+      "occurrences": 1,
+      "aliases": [
+        "星图/sun"
+      ]
+    },
+    {
+      "sha256": "ebbf423d2f59995552c837d01e68df3001a6ab1bc0aecba7f49f56d55eef56bb",
+      "path": "assets/v1.5/ebbf423d2f59995552c837d01e68df3001a6ab1bc0aecba7f49f56d55eef56bb.webp",
+      "mime": "image/webp",
+      "bytes": 53906,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/长衡信用联合"
+      ]
+    },
+    {
+      "sha256": "ebbfd062e65ecce61e6caac7b8051cca105488ee4545311bfe0ff701dca7eb87",
+      "path": "assets/v1.5/ebbfd062e65ecce61e6caac7b8051cca105488ee4545311bfe0ff701dca7eb87.webp",
+      "mime": "image/webp",
+      "bytes": 99668,
+      "occurrences": 1,
+      "aliases": [
+        "开场/module-view"
+      ]
+    },
+    {
+      "sha256": "ec346a32f54e435b5e4fecd733b2c4c3695c8164a8d3e7e77aefaca4ca45f00c",
+      "path": "assets/v1.5/ec346a32f54e435b5e4fecd733b2c4c3695c8164a8d3e7e77aefaca4ca45f00c.webp",
+      "mime": "image/webp",
+      "bytes": 74428,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/东亚共同体"
+      ]
+    },
+    {
+      "sha256": "ee65b5065c09449b890c8512c9b5422cd5f997f4d16d199a400bd367d86a353a",
+      "path": "assets/v1.5/ee65b5065c09449b890c8512c9b5422cd5f997f4d16d199a400bd367d86a353a.webp",
+      "mime": "image/webp",
+      "bytes": 47982,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/圣舟会"
+      ]
+    },
+    {
+      "sha256": "f4b29fd7ed7eccc49da3fc708af3d34d88dc1b08ba0a16bf6660d893503c279f",
+      "path": "assets/v1.5/f4b29fd7ed7eccc49da3fc708af3d34d88dc1b08ba0a16bf6660d893503c279f.webp",
+      "mime": "image/webp",
+      "bytes": 39102,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/奠基者协会"
+      ]
+    },
+    {
+      "sha256": "f57d5b5e09d484ca13071796d85d0bb5596912a96289e7ef157ceeee93136399",
+      "path": "assets/v1.5/f57d5b5e09d484ca13071796d85d0bb5596912a96289e7ef157ceeee93136399.webp",
+      "mime": "image/webp",
+      "bytes": 70134,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/月海联合会"
+      ]
+    },
+    {
+      "sha256": "f73d20f84067e6c72ecdb59bebc0ac43d9a734e884da3d4dea8f416ed4a6636e",
+      "path": "assets/v1.5/f73d20f84067e6c72ecdb59bebc0ac43d9a734e884da3d4dea8f416ed4a6636e.webp",
+      "mime": "image/webp",
+      "bytes": 64052,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/环洋联盟"
+      ]
+    },
+    {
+      "sha256": "f87cc402ec290c3494681a6b41be61346d6ac8d25239cfb0cfbffdbd0bbd09c9",
+      "path": "assets/v1.5/f87cc402ec290c3494681a6b41be61346d6ac8d25239cfb0cfbffdbd0bbd09c9.webp",
+      "mime": "image/webp",
+      "bytes": 52884,
+      "occurrences": 1,
+      "aliases": [
+        "势力徽记/火星联邦政府"
+      ]
+    }
+  ],
+  "assetCount": 77,
+  "totalBytes": 15663174,
+  "mimeCounts": {
+    "image/png": 1,
+    "image/webp": 75,
+    "audio/mpeg": 1
+  }
+}
