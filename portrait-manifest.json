@@ -1,0 +1,304 @@
+{
+  "version": "1.9",
+  "people": [
+    {
+      "name": "邵秉钧",
+      "region": "地球",
+      "path": "assets/portraits/v1.9/邵秉钧.png",
+      "bytes": 2453819,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "6063558aa549a2d05e996da8ce0751e17f7b44e575deae3d7cb239a7ea2066ba"
+    },
+    {
+      "name": "达拉妮·维拉坎",
+      "region": "地球",
+      "path": "assets/portraits/v1.9/达拉妮·维拉坎.png",
+      "bytes": 2813832,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c9cc6dcab35fc16b23c3025692c492e048917d1ef43fd360e6caeb4695403e48"
+    },
+    {
+      "name": "阿格妮丝·德尔沃",
+      "region": "地球",
+      "path": "assets/portraits/v1.9/阿格妮丝·德尔沃.png",
+      "bytes": 2593958,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7446a3916d51cdbe25400b10bd05f7cd377677d8edfa2d13645c7e79818a7ab8"
+    },
+    {
+      "name": "因加·鲁季娜",
+      "region": "地球",
+      "path": "assets/portraits/v1.9/因加·鲁季娜.png",
+      "bytes": 2475477,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "95c967f5fbec02ddba3fdbaa975f140dc6a7a8dbb16a2bfe5c610c35f8b3becc"
+    },
+    {
+      "name": "罗伊斯·哈德威克",
+      "region": "地球",
+      "path": "assets/portraits/v1.9/罗伊斯·哈德威克.png",
+      "bytes": 2341040,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "8f9d1bbb49b999f4ead525d0c323829cbded2d7f6c9e0ff913bc3d264453f577"
+    },
+    {
+      "name": "阿马杜·塞克",
+      "region": "火星",
+      "path": "assets/portraits/v1.9/阿马杜·塞克.png",
+      "bytes": 2425108,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cb50e2d47e42bd2d13ca16ba85d512438b8602ac137e7519eaf1587dcd9fba84"
+    },
+    {
+      "name": "普拉纳夫·德赛",
+      "region": "火星",
+      "path": "assets/portraits/v1.9/普拉纳夫·德赛.png",
+      "bytes": 2294226,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "72257febdc443695d4ca3a665d79869daac49b24fe249272f39dc46dcc8f6deb"
+    },
+    {
+      "name": "钟敏仪",
+      "region": "火星",
+      "path": "assets/portraits/v1.9/钟敏仪.png",
+      "bytes": 2857946,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "a87e964923300736f0a961ce74a73883c47723b01539054cf9a9e294d8b33860"
+    },
+    {
+      "name": "庄佩珊",
+      "region": "外环",
+      "path": "assets/portraits/v1.9/庄佩珊.png",
+      "bytes": 2592203,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "5bb9751cec75b979cc3b3a4c1f35e0e59e5893ac2bc868652d7c6f3f40a5ce93"
+    },
+    {
+      "name": "鲁本·伊巴拉",
+      "region": "外环",
+      "path": "assets/portraits/v1.9/鲁本·伊巴拉.png",
+      "bytes": 2545531,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "957bfee88cee8724f80879521c6ddeb45de19960a6bcbb4797a39bbdb9065c45"
+    },
+    {
+      "name": "安瑟尔姆·格雷夫",
+      "region": "星间",
+      "path": "assets/portraits/v1.9/安瑟尔姆·格雷夫.png",
+      "bytes": 2379158,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "6864d2f30bc8bb4b993344ae192ba225dac73a9aaaf8d304fa5561072fdcabfa"
+    },
+    {
+      "name": "巴希尔·哈达德",
+      "region": "星间",
+      "path": "assets/portraits/v1.9/巴希尔·哈达德.png",
+      "bytes": 2606127,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c38a7411ffce7cd89e722946612aaa8a8b49a3d1bdd47c8f8f6b37f59133940b"
+    },
+    {
+      "name": "森田瑛子",
+      "region": "星间",
+      "path": "assets/portraits/v1.9/森田瑛子.png",
+      "bytes": 2849451,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "027f80f849525624adc9e3dcec37fc7cde1ac601b0350b9723562b603b692fc5"
+    },
+    {
+      "name": "许曼仪",
+      "region": "星间",
+      "path": "assets/portraits/v1.9/许曼仪.png",
+      "bytes": 2340457,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d5545e32995b3568322b4c3ec4c6e31a6b80679883fb9d4da0de91e886bb86a2"
+    },
+    {
+      "name": "玛丽泽·卡布拉尔",
+      "region": "星间",
+      "path": "assets/portraits/v1.9/玛丽泽·卡布拉尔.png",
+      "bytes": 2688575,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "29a7bbff59c351076f6d3667f29b5840157708c039261dd79f7b8dcc0b33a393"
+    },
+    {
+      "name": "贝伦·阿吉雷",
+      "region": "星间",
+      "path": "assets/portraits/v1.9/贝伦·阿吉雷.png",
+      "bytes": 2473489,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "2b214094e1dbd707af47822db17cf57575c07a957b8cc120b7f0fcf94c50eac8"
+    },
+    {
+      "name": "裴正勋",
+      "region": "星间",
+      "path": "assets/portraits/v1.9/裴正勋.png",
+      "bytes": 2171858,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "a2e3459665a3bbae452e4f3caca2d9ac935af0206e85f82accae6e4bcad0c5cd"
+    },
+    {
+      "name": "多萝塔·扎列夫斯卡",
+      "region": "星间",
+      "path": "assets/portraits/v1.9/多萝塔·扎列夫斯卡.png",
+      "bytes": 2375225,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3fc1374f982465725fb80791759e297ec3ee0b448ff7c9cd92ff731641b6e9b7"
+    },
+    {
+      "name": "姚蕙",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/姚蕙.png",
+      "bytes": 2339522,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d20ae469f3b870ab68620ff2f3600c1192a499f0f04bc21141791e2da10571c4"
+    },
+    {
+      "name": "安东·别列津",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/安东·别列津.png",
+      "bytes": 2324453,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "5a1825b5461390ba7a5a4d6ee3c3177e0e83b32d97b409d722029ad0a665a883"
+    },
+    {
+      "name": "唐素贞",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/唐素贞.png",
+      "bytes": 2425721,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "08a6be1de850e5040413a3f647640808f91512ee5b96947cddfd52f2b6a2e70f"
+    },
+    {
+      "name": "罗琦·埃斯曼",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/罗琦·埃斯曼.png",
+      "bytes": 2746273,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3889465d557bceb61abe56f8b1aa1dff435faa3f8374d589cbdb7e73f74e44ce"
+    },
+    {
+      "name": "安雅·罗素",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/安雅·罗素.png",
+      "bytes": 2419089,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "91bad71ed47150281fecd5be6a0e40d52fda84d410653c3cf6163955b397b9f4"
+    },
+    {
+      "name": "何心",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/何心.png",
+      "bytes": 2125423,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4791424891aceeb1ff3c58e74daec0c93f10a9d51f0d12aab4a1327b6fcea89f"
+    },
+    {
+      "name": "埃德蒙·威尔莫特",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/埃德蒙·威尔莫特.png",
+      "bytes": 2641509,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "6006ae6ffdaa8629ac71ee8a6ea2a05073f8b53738bc8da6f0be1f0adb75e2d6"
+    },
+    {
+      "name": "田岛和子",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/田岛和子.png",
+      "bytes": 2484943,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "b4e6cb36ffd58985a47c67b16d8272bae9335ca0fca3a49f4e5efca085d70e52"
+    },
+    {
+      "name": "赵雯静",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/赵雯静.png",
+      "bytes": 2251379,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1aa13430f34902b882630aa3ba6b04f57f0a0867266ee9c444fa9fe1b6f0482a"
+    },
+    {
+      "name": "魏绍均",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/魏绍均.png",
+      "bytes": 2308697,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d1f8259b093fbeefc393dcd9ff3c739c4220884506bbf691574b988bb53aa5b6"
+    },
+    {
+      "name": "闻济平",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/闻济平.png",
+      "bytes": 2116562,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7a1db69618e2cc01f3b17784b1e64ebed56bf2bc4c601a833b87c2f05a4263f5"
+    },
+    {
+      "name": "黎雅琴",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/黎雅琴.png",
+      "bytes": 2556740,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "b69c575b9c677ef92994b074006727999c01bb2b8705c89a84e31e86f4e86dab"
+    },
+    {
+      "name": "孟沄",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/孟沄.png",
+      "bytes": 2269511,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "bd51121368371ba315e8574966adee87fc8cf97ef9f58ce3669826ea88d5d11d"
+    },
+    {
+      "name": "赫尔曼·蒂尔",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/赫尔曼·蒂尔.png",
+      "bytes": 2340949,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "90c6c65da9e6bde3cc3ece7c1e74fb5d2ec5bf9028eab1cb1080e769c322bb3f"
+    },
+    {
+      "name": "佟佩云",
+      "region": "实体",
+      "path": "assets/portraits/v1.9/佟佩云.png",
+      "bytes": 2261625,
+      "width": 1024,
+      "height": 1536,
+      "sha256": "19ae7321be2524c002db83ce024bfb03ffac7406dcec984303164dfe3aeacb4c"
+    }
+  ],
+  "count": 33,
+  "totalBytes": 80889876
+}
